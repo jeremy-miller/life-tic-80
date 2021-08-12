@@ -6,4 +6,4 @@ It is available to play in the browser [here](https://tic80.com/play?cart=2090).
 
 _NOTE: You can restart the simulation by pressing the `Z` key._
 
-![preview](./preview.png)
+![preview](./preview.gif)
